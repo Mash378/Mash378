@@ -55,7 +55,7 @@ Previously, I’ve interned at **ACHIEVEMOR** and **Parker Dewey**, where I work
 ---
 
 ## 📫 Contact
-📧 **Email:** [mashroor.newaz@ufl.edu](mailto:mashroor.newaz@ufl.edu)  
+📧 **Email:** [mashroor.newaz@ufl.edu](mailto:mashroornewaz37@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/mashroor-newaz](https://www.linkedin.com/in/mashroor-newaz)  
 🧑‍💻 **GitHub:** [github.com/Mash378](https://github.com/Mash378)
 
