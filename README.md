@@ -48,6 +48,8 @@ Previously, I’ve interned at **ACHIEVEMOR** and **Parker Dewey**, where I work
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Mash378?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mash378&theme=tokyonight)
+
 </div>
 
 ---
