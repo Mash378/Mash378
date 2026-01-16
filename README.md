@@ -46,7 +46,7 @@ Previously, I’ve interned at **ACHIEVEMOR** and **Parker Dewey**, where I work
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mash378&show_icons=true&theme=github_dark&border_radius=10&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mash378&show_icons=true&theme=github_dark&border_radius=10&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mash378&layout=compact&theme=github_dark&border_radius=10)
 
